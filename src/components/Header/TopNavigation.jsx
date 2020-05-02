@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import './TopNavigation.css';
+import './TopNavigation.scss';
 
 export default class TopNavigation extends Component {
   render () {

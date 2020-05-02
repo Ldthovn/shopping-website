@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import './MainNavigation.css';
+import './MainNavigation.scss';
 
 export default class MainNavigation extends Component {
   render () {
