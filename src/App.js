@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import CategoryPage from "./containers/CategoryPage/CategoryPage";
+import React, {Component} from 'react';
+import CategoryPage from './containers/CategoryPage/CategoryPage';
 
 class App extends Component {
   render() {

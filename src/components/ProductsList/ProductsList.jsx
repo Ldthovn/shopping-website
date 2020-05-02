@@ -1,7 +1,7 @@
 import React, {PureComponent} from "react";
 import PropTypes from 'prop-types';
 import ProductCard from '../ProductCard/ProductCard';
-import './ProductsList.scss';
+import './ProductsList.css';
 
 class ProductsList extends PureComponent {
   render() {
