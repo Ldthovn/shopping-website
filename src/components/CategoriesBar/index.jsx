@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import './CategoriesBar.css';
+import './CategoriesBar.scss';
 
 export default class CategoriesBar extends Component {
   render () {

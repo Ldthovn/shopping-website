@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import TopNavigation from './TopNavigation';
 import MainNavigation from './MainNavigation';
 
-import './index.css';
+import './index.scss';
 
 export default class Header extends Component {
   render () {

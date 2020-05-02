@@ -5,7 +5,7 @@ import productsList from '../../data/products';
 import categories from '../../data/categories';
 import CategoryOptions from '../../components/CategoryOptions/CategoryOptions';
 import ProductsList from '../../components/ProductsList/ProductsList';
-import "./NewArrivals.css";
+import "./NewArrivals.scss";
 
 export default class NewArrivals extends PureComponent {
   constructor(props) {

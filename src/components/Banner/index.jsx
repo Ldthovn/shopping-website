@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import './Banner.css';
+import './Banner.scss';
 
 const styles = {
   backgroundImage : "url(assets/images/slider_1.jpg)"

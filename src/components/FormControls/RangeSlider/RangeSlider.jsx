@@ -3,7 +3,7 @@ import Slider from 'rc-slider';
 import PropTypes from 'prop-types';
 
 import 'rc-slider/assets/index.css';
-import './RangeSlider.css';
+import './RangeSlider.scss';
 
 const Range = Slider.Range;
 
